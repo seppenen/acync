@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'async30200'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cb7bc114c6f8447fa30c87782673bad2 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_861d5ed9f4ab4deba0d54f861636a4c5 }}
         package: .
